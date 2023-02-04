@@ -1,0 +1,30 @@
+{
+    "id": "miroman9364/dotnet-typescript-node",
+    "version": "1.0.0",
+    "name": "miroman9364: .NET",
+    "description": "Develop applications using .NET.",
+    "documentationURL": "https://github.com/miroman9364/devcontainers-templates/tree/main/src/dotnet",
+    "publisher": "miroman9364",
+    "licenseURL": "https://github.com/miroman9364/devcontainers-templates/blob/main/LICENSE",
+    "options": {
+        "imageVariant": {
+            "type": "string",
+            "description": ".NET version:",
+            "proposals": [
+                "7.0",
+                "6.0",
+                "7.0-bullseye",
+                "6.0-bullseye",
+                "7.0-jammy",
+                "6.0-jammy",
+                "6.0-focal"
+            ],
+            "default": "7.0"
+        }
+    },
+    "platforms": [
+        ".NET",
+        ".NET Core",
+        "C#"
+    ]
+}

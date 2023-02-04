@@ -6,7 +6,10 @@
 	"customizations": {
 		"vscode": {
 			"settings": {},
-			"extensions": []
+			"extensions": [
+				"editorconfig.editorconfig",
+				"esbenp.prettier-vscode"
+			]
 		}
 	},
 	"postCreateCommand": "npm install -g @devcontainers/cli"
