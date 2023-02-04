@@ -1,8 +1,8 @@
 {
     "id": "miroman9364/dotnet-typescript-node",
     "version": "1.0.0",
-    "name": "miroman9364: .NET",
-    "description": "Develop applications using .NET.",
+    "name": "miroman9364: .NET, Node.js and TypeScript",
+    "description": "Develop applications using .NET, Node.js, and TypeScript. Includes all needed SDKs, extensions, and dependencies.",
     "documentationURL": "https://github.com/miroman9364/devcontainers-templates/tree/main/src/dotnet",
     "publisher": "miroman9364",
     "licenseURL": "https://github.com/miroman9364/devcontainers-templates/blob/main/LICENSE",

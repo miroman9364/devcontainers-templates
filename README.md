@@ -5,7 +5,7 @@ This repository contains a set of dev container templates which are source files
 ## Contents
 
 - [`src`](./src) -- A collection of subfolders, each declaring a template. Each subfolder contains at least a `devcontainer-template.json` and a [devcontainer.json](https://containers.dev/implementors/json_reference/).
-- [`test`](test) -- Mirroring `src`, a folder-per-template with at least a `test.sh` script.
+- [`test`](test) -- Mirroring `src`, a folder-per-template with at least a `test.sh` script. These tests are executed by the [CI](https://github.com/devcontainers/templates/blob/main/.github/workflows/test-pr.yaml).
 
 ## Templates
 
